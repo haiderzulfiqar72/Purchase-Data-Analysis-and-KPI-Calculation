@@ -1,4 +1,4 @@
-# Purchase-Data-Analysis-and-KPI-Calculation
+# Purchase-Data-Analysis-and-KPI-Calculation-For-Wolt-Food
  Following is a comprehensive data analysis project that leverages SQL and Python to analyze purchase data for Wolt, calculating the profitability of each purchase and generating key performance indicators (KPIs) for crucial insights.
 
 The analysis begins with SQL queries to create a derived table, calculating the profitability of each purchase. Advanced SQL concepts like temp tables and CTEs are employed, ensuring accuracy and efficiency. A scalable solution is designed to handle potential errors in the dataset and accommodate future data, enhancing the project's robustness and adaptability.
